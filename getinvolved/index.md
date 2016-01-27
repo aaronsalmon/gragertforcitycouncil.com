@@ -34,7 +34,7 @@ Send donations of $250 or less to <b>451 Lincoln Ave Eau Claire, WI 54701</b>. P
 
 Download this flyer to hang wherever it will be seen by your friends, family, and acquaintances! Every set of eyes is a potential vote!
 
-<a href="img/Kate_Beaton_for_City_Council_preview.pdf" title="Download Our Flyer"><img src="/img/Kate_Beaton_for_City_Council_preview.png"></a>
+<a href="/img/Kate_Beaton_for_City_Council.pdf" title="Download Our Flyer"><img src="/img/Kate_Beaton_for_City_Council_preview.png"></a>
 
 
 ### Yard Signs
