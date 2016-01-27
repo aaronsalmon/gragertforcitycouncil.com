@@ -29,6 +29,7 @@ avatar: "/img/avatar-icon.png"
 navbar-links:
   Home: ""
   On The Issues: "issues"
+  Endorsements: "endorsements"
   Get Involved: "getinvolved"
   
 # --- Footer options --- #
