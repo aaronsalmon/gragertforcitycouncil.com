@@ -45,9 +45,9 @@ hr.small {
 }
 
 .main-content {
-  padding-top: 130px;
+  padding-top: 160px;
 }
-@media only screen and (min-width: 768px) {
+@media only screen and (min-width: 846px) {
   .main-content {
     padding-top: 190px;
   }
@@ -90,7 +90,7 @@ img {
 }
 
 
-@media only screen and (min-width: 768px) {
+@media only screen and (min-width: 846px) {
   .disqus-comments {
     margin-top: 40px;
   }
@@ -123,7 +123,16 @@ img {
   color: #0085a1;
 }
 
-@media only screen and (min-width: 768px) {
+
+@media only screen and (min-width: 847px) and (max-width: 1060px) {
+  .navbar-custom .nav>li>a {
+    padding: 15px 8px;
+    letter-spacing: 0;
+  }
+}
+
+
+@media only screen and (min-width: 846px) {
   .navbar-custom {
     padding: 20px 0;
     -webkit-transition: background .5s ease-in-out,padding .5s ease-in-out;
@@ -169,12 +178,29 @@ img {
   display: none;
 }
 
-@media only screen and (min-width: 768px) {
+.pull-right.img-right {
+  padding-bottom:20px;
+}
+
+@media only screen and (max-width: 845px) {
   .navbar-custom .avatar-container {
     width: 149px;
     margin-top: -50px;
   }
   
+  .pull-right.img-right {
+    padding-bottom: 20px;
+    float: none !important;
+    display: block;
+  }
+}
+
+@media only screen and (min-width: 846px) {
+  .navbar-custom .avatar-container {
+    width: 149px;
+    margin-top: -50px;
+  }
+
   .navbar-custom .avatar-container  .avatar-img-border {
     width: 100%;
     box-shadow: 1px 1px 2px rgba(0, 0, 0, .8);
@@ -232,7 +258,7 @@ footer .theme-by a{
   color: #ccc;
 }
 
-@media only screen and (min-width: 768px) {
+@media only screen and (min-width: 846px) {
   footer {
     padding: 50px 0;
   }
@@ -251,7 +277,7 @@ footer .theme-by a{
   border-bottom: 1px solid #eee;
 }
 
-@media only screen and (min-width: 768px) {
+@media only screen and (min-width: 846px) {
   .post-preview {
     padding: 35px 0;
   }
@@ -295,7 +321,7 @@ footer .theme-by a{
   font-weight: 800;
 }
 
-@media only screen and (min-width: 768px) {
+@media only screen and (min-width: 846px) {
   .post-preview .post-title {
     font-size: 36px;
   }
@@ -335,13 +361,13 @@ header.header-post .post-heading .post-subheading {
   margin-bottom: 20px;
 }
 
-@media only screen and (min-width: 768px) {
+@media only screen and (min-width: 846px) {
   header.header-post .post-heading h1 {
     font-size: 50px;
   }
 }
 
-@media only screen and (min-width: 768px) {
+@media only screen and (min-width: 846px) {
   header.header-page .page-heading h1 {
     font-size: 80px;
   }
@@ -371,7 +397,7 @@ header.header-post .post-heading .post-subheading {
   border-radius: 0;
   color: #404040;
 }
-@media only screen and (min-width: 768px) {
+@media only screen and (min-width: 846px) {
   .pager li a {
     padding: 15px 25px;
   }
@@ -391,7 +417,7 @@ header.header-post .post-heading .post-subheading {
   margin-top: 0;
 }
 
-@media only screen and (min-width: 768px) {
+@media only screen and (min-width: 846px) {
   .pager.blog-pager  {
     margin-top: 10px;
   }
