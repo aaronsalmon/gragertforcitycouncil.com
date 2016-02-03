@@ -16,7 +16,7 @@ Please fill out the form below to commit your vote to me, Kate Beaton, on April 
 
 ### Volunteer
 
-Volunteers are instrumental in the success of political campaigns, large or small. Please help to elect me to the Eau Claire City Council by volunteering to knock on doors and telling your neighbors about me, by making phone calls to get out the vote, by delivering campaign literature and yard signs, and more! You’re help is so appreciated. By volunteering, you will help me to get elected which will allow me to better serve the Eau Claire community.  <a href="mailto:beatonforcitycouncil@gmail.com">Email me to get involved!</a>
+Volunteers are instrumental in the success of political campaigns, large or small. Please help to elect me to the Eau Claire City Council by volunteering to knock on doors and talking to your neighbors about the campaign, by making phone calls to get out the vote, by delivering campaign literature and yard signs, and more! You’re help is so appreciated. <a href="mailto:beatonforcitycouncil@gmail.com">Email me to get involved!</a>
 
 
 ### Donate
@@ -34,11 +34,11 @@ Send donations of $250 or less to <b>451 Lincoln Ave Eau Claire, WI 54701</b>. P
 
 Download this flyer to hang wherever it will be seen by your friends, family, and acquaintances! Every set of eyes is a potential vote!
 
-<a href="/img/Kate_Beaton_for_City_Council.pdf" title="Download Our Flyer"><img src="/img/Kate_Beaton_for_City_Council_preview.png"></a>
+<i>Check back soon for a downloadable flyer</i>
 
 
 ### Yard Signs
 
-Yard signs help to get my name into the community! Want a yard sign? <a href="https://docs.google.com/forms/d/1izenxxKIgUqIDTeYbW7cJrcmGe8Rj0jzsZMflbMlId4/viewform?embedded=true">Fill out the vote commitment/volunteer form</a>. Indicate you would like a yard sign and one will be delivered to you. You can also stop by the Democratic Party office at <b>714 S Barstow St, Eau Claire, WI 54701</b> to pick one up in person!
+Yard signs help to get my name into the community! Want a yard sign? <a href="https://docs.google.com/forms/d/1izenxxKIgUqIDTeYbW7cJrcmGe8Rj0jzsZMflbMlId4/viewform?embedded=true">Fill out the vote commitment/volunteer form</a>. Indicate you would like a yard sign and one will be delivered to you.
 
 
