@@ -40,5 +40,3 @@ Download this flyer to hang wherever it will be seen by your friends, family, an
 ### Yard Signs
 
 Yard signs help to get my name into the community! Want a yard sign? <a href="https://docs.google.com/forms/d/1izenxxKIgUqIDTeYbW7cJrcmGe8Rj0jzsZMflbMlId4/viewform?embedded=true">Fill out the vote commitment/volunteer form</a>. Indicate you would like a yard sign and one will be delivered to you.
-
-

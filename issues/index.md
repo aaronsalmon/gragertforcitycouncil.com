@@ -41,3 +41,12 @@ Eau Claire’s historic neighborhoods are a real treasure to our community. Not 
 #### Parks and health
 
 Urban green space does so much good for our physical, mental, and emotional health. Parks offer space to exercise, appreciate nature, relax, participate in community events, and spend quality time with your family and friends. A stronger parks system builds a stronger community. That’s why as a City Councilwoman, I would support initiatives to expand our parks and trails system in Eau Claire.
+
+<hr>
+
+### Meet the Candidate Interview
+
+I had the opportunity to talk with Chippewa Valley Community Television about my candidacy for Eau Claire City Council!  You can <a target="_blank" href="http://vp.telvue.com/player?id=T01614&video=267665">see the interview</a> to hear more about my views on local poverty, food insecurity, public transportation, and more! Thanks to Community TV for televising and helping the citizens of Eau Claire learn about their candidates!
+
+
+You can also find the video on <a href="http://vp.telvue.com/player?id=T01614&video=267665">the CTV website</a>.

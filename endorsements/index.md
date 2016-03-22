@@ -22,3 +22,6 @@ I have worked with people from all around the city on sustainability issues, pov
 
   <b>Donna Berry</b><br>
   <i>Chair of the Eau Claire Transit Commission</i>
+
+<hr>
+<p style="text-align:center;padding: 20px 0;"><img style="width: 200px;" src="/img/logo_gwcalc.jpg"><img style="width: 280px;" src="/img/logo_afscme.png"><img style="width: 200px;" src="/img/logo_transitunion.png"></p>
