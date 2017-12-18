@@ -38,7 +38,7 @@ I moved to Eau Claire in 2000 to attend UW-Eau Claire, where I became active bot
 
 - 2016 - **Sustainable Eau Claire Award for Transportation Innovations** from The City of Eau Claire.
 - 2013 - **Volunteer of the Year** for the Wisconsin Bicycle Federation.
-- 2011 - **Wildflower Award** by Wisconsin's John Muir Chapter of the Sierra Club.
-- 2008 - **Earth Green Award** by the Chippewa Valley Sierra Club.
+- 2011 - **Wildflower Award** from Wisconsin's John Muir Chapter of the Sierra Club.
+- 2008 - **Earth Green Award** from the Chippewa Valley Sierra Club.
 - 2007 - **Governor’s Service Award** from former Governor Jim Doyle for my work right out of college on literacy, food security, and transportation as an AmeriCorps VISTA based at the University of Wisconsin-Eau Claire’s Center for Service-Learning.
 
