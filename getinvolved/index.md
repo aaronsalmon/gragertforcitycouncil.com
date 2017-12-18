@@ -18,7 +18,7 @@ My campaign makes it easy to donate to support Jeremy Gragert for Eau Claire Cit
 
 Visit my online fundraising page through Crowdpac: **Coming Soon**
 
-Or mail donations to <b>451 Lincoln Ave., Eau Claire, WI 54701</b>. Please make checks payable to <i>"Gragert for City Council"</i>.
+Or mail donations to <b>Gragert for City Council, 451 Lincoln Ave., Eau Claire, WI 54701</b>. Please make checks payable to <i>"Gragert for City Council"</i>.
 
 <i>The maximum contribution from an individual, by law, is $500.</i>
 
