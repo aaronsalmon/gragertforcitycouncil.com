@@ -1,6 +1,6 @@
-# Vote for Kate Beaton
+# Vote Jeremy Gragert
 
-Kate Beaton for Eau Claire City Council - Website by [Aaron Salmon](http://aaronsalmon.com) / [@aaronsalmon](http://twitter.com/aaronsalmon) using [Jekyll](http://jekyllrb.com/), [GitHub Pages](https://pages.github.com/) and the Beautiful Jekyll template.
+Jeremy Gragert for Eau Claire City Council - District 3 // Website by [Aaron Salmon](http://aaronsalmon.com) / [@aaronsalmon](http://twitter.com/aaronsalmon) using [Jekyll](http://jekyllrb.com/), [GitHub Pages](https://pages.github.com/) and the Beautiful Jekyll template.
 
 # The Beautiful Jekyll Template
 

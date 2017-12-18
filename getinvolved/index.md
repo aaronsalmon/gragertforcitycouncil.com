@@ -5,39 +5,35 @@ subtitle: I am ready to serve Eau Claire, but I need your help!
 
 ---
 
-### Commit your vote
-
-Please fill out the form below to commit your vote to me, Kate Beaton, on April 5th and to learn about ways you can help my campaign
-
-<button onclick="window.location.href='https://docs.google.com/forms/d/1izenxxKIgUqIDTeYbW7cJrcmGe8Rj0jzsZMflbMlId4/viewform?embedded=true'" class="btn btn-primary btn-lg">YES! I support Kate Beaton for City Council!</button>
-
-
-<p class="text-center"><img src="/img/volunteer.jpg"></p>
+<img src="/img/jeremy_sidewalk.jpg">
 
 ### Volunteer
 
-Volunteers are instrumental in the success of political campaigns, large or small. Please help to elect me to the Eau Claire City Council by volunteering to knock on doors and talking to your neighbors about the campaign, by making phone calls to get out the vote, by delivering campaign literature and yard signs, and more! You’re help is so appreciated. <a href="mailto:beatonforcitycouncil@gmail.com">Email me to get involved!</a>
+This is an all-volunteer campaign! While Jeremy will be out reaching as many voters as he can, he cannot do it alone. Have an idea for how you can help before April 3rd? <a href="mailto:gragertforcitycouncil@gmail.com">Send me an email</a>.
 
 
 ### Donate
 
-Send donations of $250 or less to <b>451 Lincoln Ave Eau Claire, WI 54701</b>. Please make checks payable to <i>“Kate for Council”</i>
+Our campaign makes it easy to donate to support Jeremy Gragert for Eau Claire City Council!
 
-### Contact me
+Visit our online crowd-funding page through Crowdpac: **COMING SOON**
 
-- <span class="text-muted">email:</span> <a href="mailto:beatonforcitycouncil@gmail.com">beatonforcitycouncil@gmail.com</a>
-- <span class="text-muted">cell:</span> 715-252-2544
-- <span class="text-muted">address:</span> 451 Lincoln Ave Eau Claire, WI 54701
+Or mail donations to <b>451 Lincoln Ave., Eau Claire, WI 54701</b>. Please make checks payable to <i>"Gragert for City Council"</i>.
 
+<i>The maximum contribution from an individual, by law, is $500.</i>
 
-### Print Flyers
+### Contact Me
 
-Download this flyer to hang wherever it will be seen by your friends, family, and acquaintances! Every set of eyes is a potential vote!
-
-<p class="text-center"><a href="/img/votekatebeaton_flyer.pdf"><img src="/img/votekatebeaton_flyer.png"></a></p>
-
+- <span class="text-muted">email:</span> <a href="mailto:gragertforcitycouncil@gmail.com">gragertforcitycouncil@gmail.com</a>
+- <span class="text-muted">phone:</span> 715-255-0269
+- <span class="text-muted">address:</span> Gragert for City Council, 451 Lincoln Ave., Eau Claire, WI 54701
 
 
 ### Yard Signs
 
-Yard signs help to get my name into the community! Want a yard sign? <a href="https://docs.google.com/forms/d/1izenxxKIgUqIDTeYbW7cJrcmGe8Rj0jzsZMflbMlId4/viewform?embedded=true">Fill out the vote commitment/volunteer form</a>. Indicate you would like a yard sign and one will be delivered to you.
+Yard signs are one way to get my name out to the community, and for voters to show their support! If you’d like a yard sign just send us your residential address and we’ll deliver one once they are printed, sometime closer to the election. Addresses within District 3 will be given priority. Request a yard sign by <a href="mailto:gragertforcitycouncil@gmail.com">sending me an email</a>.
+
+<img src="/img/JeremyGragert_CityCouncilBanner.jpg">
+
+
+

@@ -3,7 +3,7 @@
 /* --- General --- */
 
 body {
-  font-family: 'Lora', 'Times New Roman', serif;
+  font-family: 'Montserrat', 'Times New Roman', serif;
   font-size: 18px;
   color: #404040;
   position: relative;
@@ -15,10 +15,10 @@ p {
 }
 p a {
   /* text-decoration: underline */
-  color: #19901d;
+  color: #1697ce;
 }
 h1,h2,h3,h4,h5,h6 {
-  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-family: 'Montserrat', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   font-weight: 800;
 }
 
@@ -26,16 +26,20 @@ h3 {
   margin-top: 40px;
 }
 
+.text-muted2 {
+  opacity: .5;
+}
+
 h4 {
   margin: 40px 0 10px;
   line-height: 1.2;
 }
 a {
-  color: #19901d;
+  color: #1697ce;
 }
 a:hover,
 a:focus {
-  color: #19901d;
+  color: #1697ce;
 }
 blockquote {
   color: #808080;
@@ -49,6 +53,10 @@ hr.small {
   border-radius: 3px;
 }
 
+.main-content li {
+  padding: 5px 0;
+}
+
 .main-content {
   padding-top: 160px;
 }
@@ -59,7 +67,6 @@ hr.small {
 }
 
 .main-explain-area {
-  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   padding: 15px inherit;
 }
 
@@ -70,12 +77,12 @@ hr.small {
 ::-moz-selection {
   color: white;
   text-shadow: none;
-  background: #19901d;
+  background: #1697ce;
 }
 ::selection {
   color: white;
   text-shadow: none;
-  background: #19901d;
+  background: #1697ce;
 }
 img::selection {
   color: white;
@@ -106,7 +113,6 @@ img {
 .navbar-custom {
   background: #4c4e57;
   border-bottom: 1px solid #EAEAEA;
-  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
 }
 
 .navbar-custom .nav li a {
@@ -118,6 +124,11 @@ img {
 .navbar-custom .navbar-brand,
 .navbar-custom .nav li a {
   color: #fff;
+}
+
+.navbar-nav.nav>li>a {
+  padding-left: 25px;
+  padding-right: 25px;
 }
 
 .navbar-custom .navbar-brand:hover,
@@ -156,13 +167,13 @@ img {
   -moz-transition: opacity 0.5s ease-in-out;
   transition: opacity 0.5s ease-in-out;
   left: 50%;
-  width: 90px;
+  width: 220px;
+  margin-left: -110px;
   margin-top: -25px;
 }
 .navbar-custom .avatar-container  .avatar-img-border {
   width: 100%;
-  border-radius: 50%;
-  margin-left: -50%;
+  border-radius: 0;
   display: inline-block;
   box-shadow: 0 0 8px rgba(0, 0, 0, .8);
   -webkit-box-shadow: 0 0 5px rgba(0, 0, 0, .8);
@@ -170,7 +181,7 @@ img {
 }
 .navbar-custom .avatar-container  .avatar-img {
   width: 100%;
-  border-radius: 50%;
+  border-radius: 0;
   display: block;
 }
 
@@ -183,6 +194,7 @@ img {
 }
 
 .pull-right.img-right {
+  padding-left:20px;
   padding-bottom:20px;
 }
 
@@ -201,7 +213,7 @@ img {
 
 @media only screen and (min-width: 846px) {
   .navbar-custom .avatar-container {
-    width: 149px;
+    width: 220px;
     margin-top: -50px;
   }
 
@@ -224,8 +236,8 @@ img {
 }
 footer {
   padding: 30px 0;
-  background: #dee5de;
-=  border-top: 1px #EAEAEA solid;
+  background: #e5f6fc;
+  border-top: 1px #54bee5 solid;
   margin-top: 50px;
   font-size: 14px;
 }
@@ -242,7 +254,6 @@ footer .list-inline.footer-links {
   padding: 30px 0;
 }
 footer .copyright {
-  font-family: Open Sans;
   text-align: center;
   margin-bottom: 0;
 }
@@ -252,7 +263,6 @@ footer p.copyright {
 
 
 footer .theme-by {
-    font-family: Open Sans;
 
   color: #bbb;
   text-align: center;
@@ -277,13 +287,11 @@ footer .theme-by a{
 /* --- Post preview --- */
 
 .post-preview {
-  padding: 20px 0;
   border-bottom: 1px solid #eee;
 }
 
 @media only screen and (min-width: 846px) {
   .post-preview {
-    padding: 35px 0;
   }
 }
 
@@ -319,7 +327,6 @@ footer .theme-by a{
   margin: 0 0 10px;
 }
 .post-preview .post-entry {
-  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
 }
 .post-preview .post-read-more {
   font-weight: 800;
@@ -353,10 +360,9 @@ header.header-page .page-heading h1 {
 
 header.header-post .post-heading .post-subheading,
 header.header-page .page-heading .page-subheading {
-  font-size: 24px;
+  font-size: 27px;
   line-height: 1.1;
   display: block;
-  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   font-weight: 300;
   margin: 10px 0 0;
 }
@@ -373,7 +379,7 @@ header.header-post .post-heading .post-subheading {
 
 @media only screen and (min-width: 846px) {
   header.header-page .page-heading h1 {
-    font-size: 80px;
+    font-size: 70px;
   }
 }
 
@@ -391,7 +397,6 @@ header.header-post .post-heading .post-subheading {
 /* --- Pager --- */
 
 .pager li a {
-  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   text-transform: uppercase;
   font-size: 14px;
   font-weight: 800;

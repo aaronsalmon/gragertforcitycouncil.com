@@ -8,28 +8,29 @@
 #baseurl: ""
 
 # If you are building a GitHub project page then use these settings:
-url: "http://votekatebeaton.com"
+url: "http://gragertforcitycouncil.com"
 baseurl: ""
 
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: Vote Kate Beaton
+title: Vote Jeremy Gragert
 
 # Short description of your site
-description: Kate Beaton for Eau Claire City Council
+description: Jeremy Gragert for Eau Claire City Council - District 3
 
 # --- Navigation bar options --- #
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/img/avatar-icon.png"
+avatar: "/img/header-banner.gif"
 
 # List of links in the navigation bar
 navbar-links:
   Home: ""
-  Issues: "issues"
-  Endorsements: "endorsements"
+  About Jeremy: "about"
+  District 3: "district"
+#  Issues: "issues"
   Get Involved: "getinvolved"
   
 # --- Footer options --- #
@@ -37,12 +38,12 @@ navbar-links:
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: Kate Beaton
-  email: "beatonforcitycouncil@gmail.com"
-  facebook: VoteKateBeaton  # eg. daattali
+  name: Jeremy Gragert
+  email: "gragertforcitycouncil@gmail.com"
+  facebook: gragertforcitycouncil  # eg. daattali
   github: yourname    # eg. daattali
   twitter: yourname   # eg. daattali
-  linkedin: in/katebeaton # eg. "pub/dean-attali/8/946/143"
+  linkedin: in/jeremygragert # eg. "pub/dean-attali/8/946/143"
   stackoverflow: yourlink  # eg. "3943160/daattali"
  
 # Select which links to show in the footer
@@ -57,7 +58,7 @@ footer-links-active:
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "VoteKateBeaton.com"  # eg. "deanattali.com/beautiful-jekyll"
+url-pretty: "GragertForCityCouncil.com"  # eg. "deanattali.com/beautiful-jekyll"
 
 # --- Misc --- #
 
@@ -65,7 +66,7 @@ url-pretty: "VoteKateBeaton.com"  # eg. "deanattali.com/beautiful-jekyll"
 #disqus: ""
 
 # Fill in your Google Analytics ID to track your website using GA
-google_analytics: "UA-72948907-1"
+google_analytics: "UA-111273093-1"
 
 # --- Don't need to touch anything below here (but you can if you want) --- #
 
