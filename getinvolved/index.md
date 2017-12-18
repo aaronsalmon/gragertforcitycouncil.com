@@ -9,14 +9,14 @@ subtitle: I am ready to serve Eau Claire, but I need your help!
 
 ### Volunteer
 
-This is an all-volunteer campaign! While Jeremy will be out reaching as many voters as he can, he cannot do it alone. Have an idea for how you can help before April 3rd? <a href="mailto:gragertforcitycouncil@gmail.com">Send me an email</a>.
+This is an all-volunteer campaign! While I will be out reaching as many voters as possible, I cannot do it alone. Have an idea for how you can help before April 3rd? <a href="mailto:gragertforcitycouncil@gmail.com">Send me an email</a>.
 
 
 ### Donate
 
-Our campaign makes it easy to donate to support Jeremy Gragert for Eau Claire City Council!
+My campaign makes it easy to donate to support Jeremy Gragert for Eau Claire City Council!
 
-Visit our online crowd-funding page through Crowdpac: **COMING SOON**
+Visit my online fundraising page through Crowdpac: **Coming Soon**
 
 Or mail donations to <b>451 Lincoln Ave., Eau Claire, WI 54701</b>. Please make checks payable to <i>"Gragert for City Council"</i>.
 
