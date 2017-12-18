@@ -6,7 +6,7 @@ subtitle: My home for 11 years
 
 <img src="/img/district3-pano.jpg">
 
-I have lived in Eau Claire for 15 years – from the eastside hill, to the dorms of UW-Eau Claire, to my home of 8 years in the Third Ward. District 3 emcompasses the Third Ward, UWEC, Putnam Heights/Southside (west of State Street), and the Eastside Hill (south of Altoona Ave and east of Lee Street). See a map of District 3 below or <a href="/img/Ald_WardPlanApproved_Dec2017.pdf">download a PDF of Eau Claire's Aldermanic Districts.</a> 
+I have lived in Eau Claire for 15 years – from the eastside hill, to the dorms of UW-Eau Claire, to my home of 8 years in the Third Ward. District 3 encompasses the Third Ward, UWEC, Putnam Heights/Southside (west of State Street), and the Eastside Hill (south of Altoona Ave and east of Lee Street). See a map of District 3 below or <a href="/img/Ald_WardPlanApproved_Dec2017.pdf">download a PDF of Eau Claire's Aldermanic Districts.</a> 
 
 <img src="/img/district3.png">
 
