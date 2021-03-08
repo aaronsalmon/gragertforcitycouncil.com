@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Get Involved
-subtitle: I am ready to serve Eau Claire, but I need your help! 
+subtitle: I need your help to continue to serve Eau Claire!
 
 ---
 
