@@ -9,7 +9,7 @@ subtitle: I am ready to serve Eau Claire, but I need your help!
 
 ### Volunteer
 
-This is an all-volunteer campaign! While I will be out reaching as many voters as possible, I cannot do it alone. Have an idea for how you can help before April 3rd? <a href="mailto:gragertforcitycouncil@gmail.com">Send me an email</a>.
+This is an all-volunteer campaign! While Jeremy will be reaching as many voters as he can, he cannot do it alone. Have an idea for how you can help before April 6th? <a href="mailto:gragertforcitycouncil@gmail.com">Send me an email</a>.
 
 
 ### Donate
@@ -20,7 +20,7 @@ Visit my <a href="https://www.crowdpac.com/campaigns/401230/jeremy-gragert" targ
 
 Or mail donations to <b>Gragert for City Council, 451 Lincoln Ave., Eau Claire, WI 54701</b>. Please make checks payable to <i>"Gragert for City Council"</i>.
 
-<i>The maximum contribution from an individual, by law, is $500.</i>
+<i>The maximum contribution from an individual, by law, is $500. For donations $100 or more, please provide your employer and occupation.</i>
 
 ### Contact Me
 
@@ -28,10 +28,6 @@ Or mail donations to <b>Gragert for City Council, 451 Lincoln Ave., Eau Claire, 
 - <span class="text-muted">phone:</span> 715-255-0269
 - <span class="text-muted">address:</span> Gragert for City Council, 451 Lincoln Ave., Eau Claire, WI 54701
 
-
-### Yard Signs
-
-Yard signs are one way to get my name out to the community, and for voters to show their support! If you’d like a yard sign just send us your residential address and we’ll deliver one once they are printed, sometime closer to the election. Addresses within District 3 will be given priority. Request a yard sign by <a href="mailto:gragertforcitycouncil@gmail.com">sending me an email</a>.
 
 <img src="/img/JeremyGragert_CityCouncilBanner.jpg">
 
