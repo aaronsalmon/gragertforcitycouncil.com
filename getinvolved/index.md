@@ -5,7 +5,7 @@ subtitle: I am ready to serve Eau Claire, but I need your help!
 
 ---
 
-<img src="/img/jeremy_sidewalk.jpg">
+<img src="/img/Jeremy-Gragert_Get_Involved.jpg">
 
 ### Volunteer
 
@@ -16,7 +16,7 @@ This is an all-volunteer campaign! While I will be out reaching as many voters a
 
 My campaign makes it easy to donate to support Jeremy Gragert for Eau Claire City Council!
 
-Visit my <a href="https://www.crowdpac.com/campaigns/379965/jeremy-gragert" target="_blank">online fundraising page</a> through Crowdpac: <a href="https://www.crowdpac.com/campaigns/379965/jeremy-gragert" class="btn btn-info" target="_blank">Donate Now</a>
+Visit my <a href="https://www.crowdpac.com/campaigns/401230/jeremy-gragert" target="_blank">online fundraising page</a> through Crowdpac: <a href="https://www.crowdpac.com/campaigns/401230/jeremy-gragert" class="btn btn-info" target="_blank">Donate Now</a>
 
 Or mail donations to <b>Gragert for City Council, 451 Lincoln Ave., Eau Claire, WI 54701</b>. Please make checks payable to <i>"Gragert for City Council"</i>.
 

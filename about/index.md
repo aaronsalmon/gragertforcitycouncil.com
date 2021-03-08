@@ -6,28 +6,32 @@ subtitle: Strong community advocate
 
 <img src="/img/jeremy_bike.jpg">
 
-I was born in Minneapolis but grew up in Stillwater, Minnesota, where I gained an appreciation for history and conservation of natural resources, living just blocks from the historic downtown and the Saint Croix River. 
+I was born in Minneapolis but grew up in Stillwater, Minnesota, where I gained an appreciation for history and conservation of natural resources, living just blocks from the historic downtown and the Saint Croix River.
 
-I moved to Eau Claire in 2000 to attend UW-Eau Claire, where I became active both on and off campus in important issues facing our community. I currently live in the Third Ward in my home of 8 years, but over the years have also lived in the Historic Randall Park Neighborhood, the Eastside Hill, and in the dorms of UW-Eau Claire. I’m passionate about bicycling, environmental stewardship, local history, photography, and live music.
+I moved to Eau Claire in 2000 to attend UW-Eau Claire, where I became active on and off campus in important community development issues, including downtown revitalization and expanding our bike trails. I currently live in the Third Ward in my home of 11 years, but have also lived in the Historic Randall Park Neighborhood, the Eastside Hill, and in the dorms of UW-Eau Claire. I’m passionate about hiking and biking, environmental stewardship, local history, photography, and live music.
+
 
 
 #### Current Engagements
 
-- **Clean Wisconsin**, Independent Contractor for non-profit clean energy network
-- **Chippewa Valley Museum**, Independent Contractor
-- **Chippewa Valley Montessori Charter School**, Governance Board Member
-- **Wisconsin Bicycle Federation**, Northwest Ambassador
-- **Third Ward Neighborhood Association**, Steering Committee Member
+- **Consultant**, Independent contractor for National Wildlife Federation and Clean Wisconsin, with focus on clean energy and climate policy
+- **Eau Claire City Council**, District 3 representative
+- **City of Eau Claire Plan Commission**, City Council representative
+- **Eau Claire Transit Commission**, City Council representative
+- **Putnam Park Commission**, City Council representative
+- **Bike Chippewa Valley**, Board President
 - **Chippewa Valley Transit Alliance**, Board Treasurer
-- **Alliance for Strong Communities**, Board Treasurer
 
 #### Past Experience
 
+- **Chippewa Valley Montessori Charter School**, Governance Board (2017-2020)
 - **Chippewa Valley Museum**, Full-time Communications Specialist (2016-2017)
+- **Wisconsin Bicycle Federation**, Northwest Ambassador (2015-2016)
 - **City of Eau Claire**, Committee on the Update of the Comprehensive Plan (2014-2015)
-- **UW-Stout**, Full-time Coordinator of Community Outreach and Civic Engagement (2010-2011)
+- **UW-Stout**, Coordinator of Community Outreach and Civic Engagement (2010-2011)
 - **UW-La Crosse**, Master’s Degree in Education (2010)
 - **Downtown Eau Claire, Inc.**, Board of Directors (2007-2008)
+- **Third Ward Neighborhood Association**, Steering Committee (2006-2008)
 - **UW-Eau Claire Center for Service-Learning**, AmeriCorps VISTA (2006-2008)
 - **UW-Eau Claire**, Bachelor’s Degree in History (2005)
 - **UW-Eau Claire Student Senate**, Off-campus Senator (2005)
